@@ -4,7 +4,7 @@
 This project turns Vrinda Store's order data into a business-ready sales dashboard. Using Microsoft Excel, the analysis brings together sales, order volume, customer demographics, fulfilment status, geographic performance, product categories, and sales channels—so decision-makers can move from raw transactions to practical growth actions.
 
 <p align="center">
-  <img src="assets/vrinda-store-dashboard.png" alt="Vrinda Store Annual Sales Dashboard" width="100%" />
+  <img src="Vrinda Store Annual Sales Dashboard.png" alt="Vrinda Store Annual Sales Dashboard" width="100%" />
 </p>
 
 ## The Business Story
